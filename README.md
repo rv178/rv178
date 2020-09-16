@@ -31,13 +31,13 @@
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
 
-[<img align="left" alt="godot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" />][youtube]
+[<img align="left" alt="godot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" />][godot]
 
 <br />
 <br />
 
 [youtube]: https://www.youtube.com/channel/UCyg7P3QOb2qYovZJ1tLA3Qg
-
+[godot]: https://www.youtube.com/watch?v=k9dimAs8J3Y&list=PLPwTS9YN_9qZBt8O8TFB9_TlFNJJsvaGD
 ---
 
 </details>
