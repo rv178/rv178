@@ -3,8 +3,9 @@
 ## I'm a student and a developer!
 
 -😀 I am a student who does coding as a hobby.
+-🥪 I really like to eat food.
 
-
+-😉 A sub to my youtube channel would be highly appreciated.
 
 ### Spotify Playing 🎧
 
