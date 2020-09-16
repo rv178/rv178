@@ -23,11 +23,11 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][youtube]
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][youtube]
+[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][cpp]
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
 
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][youtube]
+[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][cs]
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
 
@@ -38,6 +38,8 @@
 
 [youtube]: https://www.youtube.com/channel/UCyg7P3QOb2qYovZJ1tLA3Qg
 [godot]: https://www.youtube.com/watch?v=k9dimAs8J3Y&list=PLPwTS9YN_9qZBt8O8TFB9_TlFNJJsvaGD
+[cs]: https://www.youtube.com/watch?v=mUVsclg5lz8&list=PLPwTS9YN_9qYW3SIjzxI5ML6Z6pSLk7lj
+[cpp]: https://www.youtube.com/watch?v=CxXDhKL7dX4&list=PLPwTS9YN_9qa5_tfVMp0RA4tZ0qpIOAWx
 ---
 
 </details>
