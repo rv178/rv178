@@ -8,7 +8,7 @@
 
 ### Youtube:
 
-[<img align="left" alt="Idli | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
+[<img align="left" alt="Idli | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 
@@ -31,6 +31,8 @@
 
 <br />
 <br />
+
+[youtube]: https://www.youtube.com/channel/UCyg7P3QOb2qYovZJ1tLA3Qg
 
 ---
 
