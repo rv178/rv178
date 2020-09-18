@@ -16,8 +16,6 @@
 
 [<img align="left" alt="Idli | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[<img align="left" alt="Idli | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Website]
-
 <br />
 
 ### Languages and the tools I use:
