@@ -42,7 +42,7 @@
 [godot]: https://www.youtube.com/watch?v=k9dimAs8J3Y&list=PLPwTS9YN_9qZBt8O8TFB9_TlFNJJsvaGD
 [cs]: https://www.youtube.com/watch?v=mUVsclg5lz8&list=PLPwTS9YN_9qYW3SIjzxI5ML6Z6pSLk7lj
 [cpp]: https://www.youtube.com/watch?v=CxXDhKL7dX4&list=PLPwTS9YN_9qa5_tfVMp0RA4tZ0qpIOAWx
-[Website]: https://idlidev.github.io/
+[discord]: https://discord.gg/zFCBfRF
 ---
 
 </details>
