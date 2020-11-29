@@ -16,6 +16,7 @@
 
 [<img align="left" alt="Idli | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Idli | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="Idli | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 <br />
 
 ### Languages and the tools I use:
@@ -43,6 +44,7 @@
 [cs]: https://www.youtube.com/watch?v=mUVsclg5lz8&list=PLPwTS9YN_9qYW3SIjzxI5ML6Z6pSLk7lj
 [cpp]: https://www.youtube.com/watch?v=CxXDhKL7dX4&list=PLPwTS9YN_9qa5_tfVMp0RA4tZ0qpIOAWx
 [discord]: https://discord.gg/zFCBfRF
+[reddit]: https://reddit.com/u/Idli_codes
 ---
 
 </details>
