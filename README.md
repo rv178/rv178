@@ -45,7 +45,6 @@
 [cpp]: https://www.youtube.com/watch?v=CxXDhKL7dX4&list=PLPwTS9YN_9qa5_tfVMp0RA4tZ0qpIOAWx
 [discord]: https://discord.gg/zFCBfRF
 [reddit]: https://reddit.com/u/Idli_codes
----
 
 </details>
 
