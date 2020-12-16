@@ -8,7 +8,7 @@
 
 - ✅ Currently making a discord bot!
 
-- 😉❤💘💖 A sub to my youtube channel would be highly appreciated.
+- 💖 A sub to my youtube channel would be highly appreciated.
 
 <br />
 
