@@ -2,13 +2,13 @@
 
 ## I'm a student and a developer!
 
--😄 Hope you find everything helpful in here!
+- 😄 Hope you find everything helpful in here!
 
--😀 I am a student who does coding as a hobby.
+- 😀 I am a student who does coding as a hobby.
 
--🥪 I really like to eat food.
+- 🥪 I really like to eat food.
 
--😉 A sub to my youtube channel would be highly appreciated.
+- 😉 A sub to my youtube channel would be highly appreciated.
 
 <br />
 
