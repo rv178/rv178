@@ -4,11 +4,11 @@
 
 - 😄 Hope you find everything helpful in here!
 
-- 😀 I am a student who does coding as a hobby.
+- ⌨ I am a student who does coding as a hobby.
 
-- 🥪 I really like to eat food.
+- ✅ Currently making a discord bot!
 
-- 😉 A sub to my youtube channel would be highly appreciated.
+- 😉❤💘💖 A sub to my youtube channel would be highly appreciated.
 
 <br />
 
