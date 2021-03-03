@@ -43,7 +43,7 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Idlidev&show_icons=true&theme=dark)]()
 
 <br />
-## Github stats
+
 [![](https://github-readme-stats.vercel.app/api?username=Idlidev&theme=dark)]()
 
 <br />
