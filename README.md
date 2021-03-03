@@ -39,7 +39,7 @@
 <br />
 
 
-## Most used languages
+## Stats
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Idlidev&show_icons=true&theme=dark)]()
 
 <br />
