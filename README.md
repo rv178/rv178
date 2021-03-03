@@ -44,8 +44,6 @@
 ## Stats
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Idlidev&show_icons=true&theme=dark)]()
 
-[![](https://github-readme-stats.vercel.app/api?username=Idlidev&theme=dark)]()
-
 <br />
 
 [youtube]: https://www.youtube.com/Idlidev
@@ -60,6 +58,6 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Idlidev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Idlidev&show_icons=true&hide_border=false" />
+  [![](https://github-readme-stats.vercel.app/api?username=Idlidev&theme=dark)]()
 
 </details>
