@@ -1,5 +1,3 @@
-### Hi there, I'm Idli
-
 ## I'm a student and a developer!
 
 - 😄 Hope you find everything helpful in here!
@@ -41,11 +39,11 @@
 <br />
 
 
-## Stats
+## Most used languages
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Idlidev&show_icons=true&theme=dark)]()
 
 <br />
-
+## Github stats
 [![](https://github-readme-stats.vercel.app/api?username=Idlidev&theme=dark)]()
 
 <br />
