@@ -4,7 +4,7 @@
 
 - ⌨ I am a student who does coding as a hobby.
 
-- ✅ Currently making a discord bot!
+- 📗 I'm currently on a break from coding due to academic stuff.
 
 - 💖 A sub to my youtube channel would be highly appreciated.
 
@@ -24,12 +24,6 @@
 <br />
 
 [![](https://github-readme-stats.vercel.app/api?username=Idlidev&theme=dark)]()
-
-<br />
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Idlidev Spotify Playing" width="350" />](https://open.spotify.com/user/po24dourastxp7dqyh2imu4un)
 
 <br />
 
