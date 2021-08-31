@@ -14,6 +14,13 @@
 
 - [Youtube](https://youtube.com/c/idlidev)
 - [Reddit](https://reddit.com/u/idli_codes)
+
+<br />
+
+<a href="https://discord.com/users/403657714812715008">
+  <img height="80px" src="https://discord.c99.nl/widget/theme-4/758991567695642644.png">
+</a>
+
 <br />
 
 
