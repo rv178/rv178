@@ -12,7 +12,8 @@
 
 ### Social Media:
 
-[Youtube](https://youtube.com/idlidev)
+- [Youtube](https://youtube.com/c/idlidev)
+- [Reddit](https://reddit.com/u/idli_codes)
 <br />
 
 
