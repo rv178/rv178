@@ -17,7 +17,7 @@
 - [Discord](https://discord.gg/UpFrCBmmtP)
 <br />
 <a href="https://discord.com/users/758991567695642644">
-  <img height="80px" src="https://discord.c99.nl/widget/theme-4/758991567695642644.png">
+  <img height="80px" width="395px" src="https://discord.c99.nl/widget/theme-4/758991567695642644.png">
 </a>
 
 <br />
