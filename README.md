@@ -16,8 +16,8 @@
 - [Reddit](https://reddit.com/u/idli_codes)
 
 <br />
-
-<a href="https://discord.com/users/403657714812715008">
+- [Discord](https://discord.gg/UpFrCBmmtP)
+<a href="https://discord.com/users/758991567695642644">
   <img height="80px" src="https://discord.c99.nl/widget/theme-4/758991567695642644.png">
 </a>
 
