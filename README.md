@@ -13,8 +13,8 @@
 ### Social Media:
 
 [<img align="left" alt="Idli | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
-[<img align="left" alt="Idli | YouTube" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/discord-logo-png-transparent.png" />][discord]
-[<img align="left" alt="Idli | YouTube" width="22px" src="https://www.vectorico.com/download/social_media/Reddit-Icon.png" />][reddit]
+[<img align="left" alt="Idli | Discord" src="https://images-ext-2.discordapp.net/external/8EsHNV_ZeyZ-1PGeq1ZgpTRBdz3guRnLIxICMXIJO6c/https/discord.c99.nl/widget/theme-4/758991567695642644.png" />][discord]
+[<img align="left" alt="Idli | Reddit" width="22px" src="https://www.vectorico.com/download/social_media/Reddit-Icon.png" />][reddit]
 <br />
 
 
