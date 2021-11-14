@@ -6,7 +6,7 @@
 
 - 📗 I'm currently on a break from coding due to academic stuff.
 
-- 💖 A sub to my youtube channel would be highly appreciated.
+- 💖 A sub to my youtube channel will be highly appreciated!
 
 <br />
 
