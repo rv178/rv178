@@ -31,7 +31,7 @@
 
 <br />
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Idlidev&&color=brightred&label=Profile%20Views%20%28Since%20November%202021%29)
+![Profile views counter](https://komarev.com/ghpvc/?username=Idlidev&&color=red&label=Profile%20Views%20%28Since%20November%202021%29)
 
 <br />
 
