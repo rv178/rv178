@@ -23,15 +23,15 @@
 
 
 ## Stats
+![Profile views counter](https://komarev.com/ghpvc/?username=Idlidev&&color=red&label=Profile%20Views%20%28Since%20November%202021%29)
+
+<br />
+
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Idlidev&show_icons=true&theme=dark)]()
 
 <br />
 
 [![](https://github-readme-stats.vercel.app/api?username=Idlidev&theme=dark)]()
-
-<br />
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Idlidev&&color=red&label=Profile%20Views%20%28Since%20November%202021%29)
 
 <br />
 
