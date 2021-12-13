@@ -15,6 +15,9 @@
 - [Youtube](https://youtube.com/c/idlidev)
 - [Reddit](https://reddit.com/u/idli_codes)
 - [Discord](https://discord.gg/UpFrCBmmtP)
+
+### My Public GPG key
+- [Public GPG key](./public_key.gpg)
 <br />
 
 [![](https://discord.c99.nl/widget/theme-4/758991567695642644.png)](https://discord.com/users/758991567695642644)
