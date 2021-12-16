@@ -4,7 +4,7 @@
 
 - ⌨ I am a student who does coding as a hobby.
 
-- 📗 I'm currently on a break from coding due to academic stuff.
+- 📗 A Linux enthusiast!
 
 - 💖 A sub to my youtube channel will be highly appreciated!
 
