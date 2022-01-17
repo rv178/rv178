@@ -25,8 +25,7 @@
 
 ## Stats
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Idlidev&&color=red&label=Profile%20Views%20%28Since%20November%202021%29)
-<img src="https://komarev.com/ghpvc/?username=Idlidev&color=156CAC&style=flat-square" alt="GitHub page views">
+![Profile views counter](https://komarev.com/ghpvc/?username=Idlidev&&color=5E81AC&label=Profile%20Views%20%28Since%20November%202021%29)
 
 <br />
 
