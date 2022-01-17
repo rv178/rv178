@@ -1,4 +1,4 @@
-## I'm a student and a developer!
+## Hey there!
 
 -   😄 Hope you find everything helpful in here!
 
