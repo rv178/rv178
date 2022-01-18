@@ -6,6 +6,8 @@
 
 -   📗 A Linux enthusiast!
 
+-   🦀 Currently learning rust.
+
 <br />
 
 ### Social Media:
@@ -41,4 +43,5 @@
 [discord]: https://discord.gg/UpFrCBmmtP
 [reddit]: https://reddit.com/u/Idli_codes
 
+</details>
 </details>
