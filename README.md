@@ -22,7 +22,7 @@
     <br />
 
 [![](https://discord.c99.nl/widget/theme-1/758991567695642644.png)](https://discord.com/users/758991567695642644)
-
+![](https://api.bakerie.gq/theme-1/758991567695642644)
 <br />
 
 ## Stats
