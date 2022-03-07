@@ -1,7 +1,5 @@
 ## Hey there!
 
--   😄 Hope you find everything helpful in here!
-
 -   ⌨ I am a student who does coding as a hobby.
 
 -   📗 A Linux enthusiast!
