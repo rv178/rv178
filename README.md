@@ -28,11 +28,11 @@
 
 <br />
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Idlidev&show_icons=true&theme=nord)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=rv178&show_icons=true&theme=nord)]()
 
 <br />
 
-[![](https://github-readme-stats.vercel.app/api?username=Idlidev&theme=nord)]()
+[![](https://github-readme-stats.vercel.app/api?username=rv178&theme=nord)]()
 
 <br />
 
