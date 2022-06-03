@@ -2,7 +2,7 @@
 
 -   ⌨ I am a student who does coding as a hobby.
 
--   📗 A Linux enthusiast!
+-   🐧A Linux enthusiast!
 
 -   🦀 Currently learning rust.
 
@@ -16,13 +16,15 @@
 
 -   [Public GPG key](https://raw.githubusercontent.com/rv178/rv178/master/public_key.gpg)
 
-<br />
-
-![](https://api.bakerie.gq/theme-1/758991567695642644)
-<br />
-
-## Stats
+### GitHub Stats
 
 [![stats](https://github-readme-stats.vercel.app/api?username=rv178&theme=nord)]()
 
-<br />
+### Discord status
+
+![](https://api.bakerie.gq/theme-1/758991567695642644)
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
