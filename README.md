@@ -32,4 +32,4 @@
 
 ### Discord status
 
-![](https://api.bakerie.gq/theme-1/758991567695642644)
+<img src="https://api.bakerie.gq/theme-1/758991567695642644" alt="drawing" width="60%"/>
