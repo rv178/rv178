@@ -1,5 +1,5 @@
 <p align=center>
-	<img src="https://komarev.com/ghpvc/?username=rv178&&color=5E81AC&label=Profile%20Views%20%28Since%20November%202021%29" alt=profile_views width=40%>
+	<img src="https://komarev.com/ghpvc/?username=rv178&&color=5E81AC&label=Profile%20Views%20%28Since%June%322%29" alt=profile_views width=20%>
 </p>
 
 ## 👋 Hey there!
