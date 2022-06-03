@@ -1,4 +1,4 @@
-## Hey there!
+## 👋 Hey there!
 
 -   I am a student who does coding as a hobby.
 
@@ -6,7 +6,7 @@
 
 -   Currently learning rust.
 
-### Social Media:
+### Social Media
 
 -   [Youtube](https://youtube.com/c/idlidev)
 -   [Reddit](https://reddit.com/u/idli_codes)
