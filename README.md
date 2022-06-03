@@ -16,7 +16,7 @@
 
 ### Public GPG key
 
--   [Public GPG key](https://raw.githubusercontent.com/rv178/rv178/master/public_key.gpg)
+-   [Public GPG key](https://rv178.is-a.dev/gpg)
 
 ### Latest posts
 
