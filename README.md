@@ -16,7 +16,7 @@
 
 -   [Public GPG key](https://raw.githubusercontent.com/rv178/rv178/master/public_key.gpg)
 
-# Latest posts
+### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
