@@ -1,10 +1,10 @@
 ## Hey there!
 
--   ⌨ I am a student who does coding as a hobby.
+-   I am a student who does coding as a hobby.
 
--   🐧 A Linux enthusiast!
+-   A Linux enthusiast!
 
--   🦀 Currently learning rust.
+-   Currently learning rust.
 
 ### Social Media:
 
