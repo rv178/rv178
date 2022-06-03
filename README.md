@@ -27,4 +27,6 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning Chess](https://rv178.is-a.dev/posts/learning-chess/)
+- [A brief recap of my Linux journey up until now](https://rv178.is-a.dev/posts/my-linux-journey/)
 <!-- BLOG-POST-LIST:END -->
