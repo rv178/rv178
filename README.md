@@ -16,7 +16,7 @@
 
 ### My Public GPG key
 
--   [Public GPG key](https://raw.githubusercontent.com/Idlidev/Idlidev/master/public_key.gpg)
+-   [Public GPG key](https://raw.githubusercontent.com/rv178/rv178/master/public_key.gpg)
     <br />
 
 ![](https://api.bakerie.gq/theme-1/758991567695642644)
@@ -24,21 +24,8 @@
 
 ## Stats
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Idlidev&&color=5E81AC&label=Profile%20Views%20%28Since%20November%202021%29)
+[![stats](https://github-readme-stats.vercel.app/api?username=rv178&theme=nord)]()
 
 <br />
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=rv178&show_icons=true&theme=nord)]()
-
-<br />
-
-[![](https://github-readme-stats.vercel.app/api?username=rv178&theme=nord)]()
-
-<br />
-
-[youtube]: https://www.youtube.com/Idlidev
-[discord]: https://discord.gg/UpFrCBmmtP
-[reddit]: https://reddit.com/u/Idli_codes
-
-</details>
-</details>
+![Rice](https://i.redd.it/fxfkhld0kga81.png)
