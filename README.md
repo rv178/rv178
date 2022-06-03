@@ -26,10 +26,10 @@
 -   [A brief recap of my Linux journey up until now](https://rv178.is-a.dev/posts/my-linux-journey/)
 <!-- BLOG-POST-LIST:END -->
 
-### GitHub Stats
-
-[![stats](https://github-readme-stats.vercel.app/api?username=rv178&theme=nord)]()
-
 ### Discord status
 
 <img src="https://api.bakerie.gq/theme-1/758991567695642644" alt="drawing" width="60%"/>
+
+### GitHub Stats
+
+[![stats](https://github-readme-stats.vercel.app/api?username=rv178&theme=nord)]()
