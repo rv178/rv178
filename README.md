@@ -6,7 +6,7 @@
 
 -   Currently learning rust.
 
-![Alt](https://komarev.com/ghpvc/?username=rv178&&color=5E81AC&label=Profile%20Views%20%28Since%June%322%29")
+![Alt](https://komarev.com/ghpvc/?username=rv178&&color=5E81AC&label=Profile%20views%20since%20June%203%202022)
 
 ### Social Media
 
