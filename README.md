@@ -1,3 +1,7 @@
+<p align=center>
+	<img src="https://komarev.com/ghpvc/?username=rv178&&color=5E81AC&label=Profile%20Views%20%28Since%20November%202021%29" alt=profile_views width=100%>
+</p>
+
 ## 👋 Hey there!
 
 -   I am a student who does coding as a hobby.
