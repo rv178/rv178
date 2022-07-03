@@ -14,10 +14,6 @@
 -   [Reddit](https://reddit.com/u/idli_codes)
 -   [Discord](https://discord.gg/UpFrCBmmtP)
 
-### Public GPG key
-
--   [Public GPG key](https://rv178.is-a.dev/gpg)
-
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
