@@ -17,15 +17,23 @@
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- [FEN String Parsing in Rust](https://rv178.is-a.dev/posts/fen-string-parsing-in-rust/)
-- [Learning Chess](https://rv178.is-a.dev/posts/learning-chess/)
-- [A brief recap of my Linux journey up until now](https://rv178.is-a.dev/posts/my-linux-journey/)
+
+-   [FEN String Parsing in Rust](https://rv178.is-a.dev/posts/fen-string-parsing-in-rust/)
+-   [Learning Chess](https://rv178.is-a.dev/posts/learning-chess/)
+-   [A brief recap of my Linux journey up until now](https://rv178.is-a.dev/posts/my-linux-journey/)
 <!-- BLOG-POST-LIST:END -->
 
-### Discord status
+<details>
+<summary>Discord status</summary>
 
 <img src="https://api.bakerie.gq/theme-1/758991567695642644" alt="drawing" width="60%"/>
 
-### GitHub Stats
+</details>
 
-[![stats](https://github-readme-stats.vercel.app/api?username=rv178&theme=nord)]()
+<details>
+<summary>GitHub stats</summary>
+
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rv178&show_icons=true&theme=nord)
+![stats](https://github-readme-stats.vercel.app/api?username=rv178&count_private=true&theme=nord)
+
+</details>
