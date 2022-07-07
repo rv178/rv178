@@ -26,7 +26,7 @@
 
 <details>
 <summary>GitHub stats</summary>
-<br />
+
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rv178&show_icons=true&theme=nord)
 <br />
 ![stats](https://github-readme-stats.vercel.app/api?username=rv178&count_private=true&theme=nord)
