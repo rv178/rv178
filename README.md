@@ -8,11 +8,6 @@
 
 ![Alt](https://komarev.com/ghpvc/?username=rv178&&color=5E81AC&label=Profile%20views%20since%20June%203%202022)
 
-### Social Media
-
--   [Youtube](https://youtube.com/c/idlidev)
--   [Reddit](https://reddit.com/u/idli_codes)
-
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -23,15 +18,15 @@
 <!-- BLOG-POST-LIST:END -->
 
 <details>
-<summary>Discord status</summary>
-
-<img src="https://api.bakerie.gq/theme-1/758991567695642644" alt="drawing" width="60%"/>
+<summary>**Discord status**</summary>
+<br />
+<img src="https://api.bakerie.gq/theme-1/758991567695642644" alt="Discord status" width="60%"/>
 
 </details>
 
 <details>
-<summary>GitHub stats</summary>
-
+<summary>**GitHub stats**</summary>
+<br />
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rv178&show_icons=true&theme=nord)
 <br />
 ![stats](https://github-readme-stats.vercel.app/api?username=rv178&count_private=true&theme=nord)
