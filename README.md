@@ -18,14 +18,14 @@
 <!-- BLOG-POST-LIST:END -->
 
 <details>
-<summary>**Discord status**</summary>
+<summary>Discord status</summary>
 <br />
 <img src="https://api.bakerie.gq/theme-1/758991567695642644" alt="Discord status" width="60%"/>
 
 </details>
 
 <details>
-<summary>**GitHub stats**</summary>
+<summary>GitHub stats</summary>
 <br />
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rv178&show_icons=true&theme=nord)
 <br />
