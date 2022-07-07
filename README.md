@@ -17,6 +17,8 @@
 -   [A brief recap of my Linux journey up until now](https://rv178.is-a.dev/posts/my-linux-journey/)
 <!-- BLOG-POST-LIST:END -->
 
+### Status
+
 <details>
 <summary>Discord status</summary>
 <br />
