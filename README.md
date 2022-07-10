@@ -11,7 +11,7 @@
 <details>
 <summary>Skills</summary>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,rust,c,ts,js,css,html,discord,vim,bootstrap,git,github,godot,docker,express,lua,md,nextjs,nodejs,py,qt,gtk,react,regex,zig,unity,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,rust,c,ts,js,css,html,discord,vim,bootstrap,git,github,godot,docker,express,lua,md,nextjs,nodejs,py,qt,gtk,react,regex,zig,go,blender,unity,mongodb)](https://skillicons.dev)
 
 </details>
 
