@@ -10,8 +10,10 @@
 
 <details>
 <summary>Skills</summary>
+
 [![My Skills](https://skillicons.dev/icons?i=linux,rust,c,ts,js,css,html,discord,bash,bootstrap,git,github,godot,docker,express,lua,md,nextjs,nodejs,py,qt,gtk,react,regex,zig,unity)](https://skillicons.dev)
-<details>
+
+</details>
 
 ### Latest posts
 
