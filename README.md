@@ -37,7 +37,7 @@
 <details>
 <summary>GitHub stats</summary>
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rv178&layout=compact&langs_count=20&theme=nord)
-![stats](https://github-readme-stats.vercel.app/api?username=rv178&count_private=true&theme=nord)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rv178&layout=compact&langs_count=10&theme=nord&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=rv178&count_private=true&theme=nord&hide_border=true&show_icons=true)
 
 </details>
