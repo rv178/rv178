@@ -18,6 +18,6 @@
 -   [A brief recap of my Linux journey up until now](https://rv178.is-a.dev/posts/my-linux-journey/)
 <!-- BLOG-POST-LIST:END -->
 
-<img src="https://plug.ninja/theme-1/758991567695642644" alt="Discord status" width="60%"/>
+<img src="https://plug.ninja/theme-1/758991567695642644" alt="Discord status" width="50%"/>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=rv178&count_private=true&theme=nord&hide_border=true&show_icons=true)
