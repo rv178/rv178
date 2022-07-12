@@ -11,7 +11,7 @@
 <details>
 <summary>Discord status</summary>
 <br />
-<img src="https://api.bakerie.gq/theme-1/758991567695642644" alt="Discord status" width="60%"/>
+<img src="https://plug.ninja/theme-1/758991567695642644" alt="Discord status" width="60%"/>
 
 </details>
 
