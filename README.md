@@ -21,5 +21,5 @@
 
 <img src="https://plug.ninja/theme-1/758991567695642644" alt="Discord status" width="58%"/>
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rv178&layout=compact&langs_count=10&theme=nord)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rv178&layout=compact&langs_count=10&theme=nord&hide_border=true)
 ![stats](https://github-readme-stats.vercel.app/api?username=rv178&count_private=true&theme=nord&hide_border=true&show_icons=true)
