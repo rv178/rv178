@@ -15,7 +15,10 @@
 
 </details>
 
-<img src="https://plug.ninja/theme-1/758991567695642644" alt="Discord status" width="50%"/>
+<details>
+<summary>Discord status</summary>
+<img src="https://plug.ninja/theme-1/758991567695642644" alt="Discord status" width="58%"/>
+</details>
 
 <details>
 <summary>GitHub stats</summary>
