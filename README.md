@@ -2,15 +2,18 @@
 
 ![Alt](https://komarev.com/ghpvc/?username=rv178&&color=5E81AC&label=Profile%20views%20since%20June%203%202022)
 
+[![Things I use](https://skillicons.dev/icons?i=linux,bash,rust,c,ts,js,html,css,sass,bots,neovim,bootstrap,git,github,godot,docker,express,md,react,nextjs,nodejs,py,qt,gtk,regex,go,mongodb)](https://skillicons.dev)
+
 <details>
 <summary>Latest blog posts</summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [Switching to Wayland](https://rv178.is-a.dev/posts/switching-to-wayland/)
-- [Writing a Build Automation Tool](https://rv178.is-a.dev/posts/writing-a-build-automation-tool/)
-- [FEN String Parsing in Rust](https://rv178.is-a.dev/posts/fen-string-parsing-in-rust/)
-- [Learning Chess](https://rv178.is-a.dev/posts/learning-chess/)
-- [A brief recap of my Linux journey up until now](https://rv178.is-a.dev/posts/my-linux-journey/)
+
+-   [Switching to Wayland](https://rv178.is-a.dev/posts/switching-to-wayland/)
+-   [Writing a Build Automation Tool](https://rv178.is-a.dev/posts/writing-a-build-automation-tool/)
+-   [FEN String Parsing in Rust](https://rv178.is-a.dev/posts/fen-string-parsing-in-rust/)
+-   [Learning Chess](https://rv178.is-a.dev/posts/learning-chess/)
+-   [A brief recap of my Linux journey up until now](https://rv178.is-a.dev/posts/my-linux-journey/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
