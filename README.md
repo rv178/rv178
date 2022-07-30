@@ -2,12 +2,6 @@
 
 ![Alt](https://komarev.com/ghpvc/?username=rv178&&color=5E81AC&label=Profile%20views%20since%20June%203%202022)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,rust,git,c,nodejs,neovim,py,docker,nextjs,ts,bootstrap,tailwind,haskell,mongodb" />
-  </a>
-</p>
-
 <details>
 <summary>Latest blog posts</summary>
 
