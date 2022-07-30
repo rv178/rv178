@@ -4,6 +4,7 @@
 
 <details>
 <summary>Latest blog posts</summary>
+
 <!-- BLOG-POST-LIST:START -->
 - [Switching to Wayland](https://rv178.is-a.dev/posts/switching-to-wayland/)
 - [Writing a Build Automation Tool](https://rv178.is-a.dev/posts/writing-a-build-automation-tool/)
