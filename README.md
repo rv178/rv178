@@ -2,7 +2,11 @@
 
 ![Alt](https://komarev.com/ghpvc/?username=rv178&&color=5E81AC&label=Profile%20views%20since%20June%203%202022)
 
-[![Things I use](https://skillicons.dev/icons?i=linux,bash,rust,c,ts,nodejs,neovim,bootstrap,tailwind,git,docker,react,nextjs,py,haskell,regex,mongodb)](https://skillicons.dev)
+<p align="center">
+	<a href="https://skillicons.dev">
+		<img src="https://skillicons.dev/icons?i=linux,bash,rust,c,ts,nodejs,neovim,bootstrap,tailwind,git,docker,react,nextjs,py,haskell,regex,mongodb" />
+	</a>
+</p>
 
 <details>
 <summary>Latest blog posts</summary>
