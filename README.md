@@ -17,7 +17,7 @@
 
 <details>
 <summary>Discord status</summary>
-<img src="https://plug.ninja/theme-1/758991567695642644" alt="Discord status" width="58%"/>
+<img src="https://plug.re/theme-1/758991567695642644" alt="Discord status" width="58%"/>
 </details>
 
 <details>
