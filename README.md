@@ -2,7 +2,7 @@
 
 ![Alt](https://komarev.com/ghpvc/?username=rv178&&color=5E81AC&label=Profile%20views%20since%20June%203%202022)
 
-- Latest blog posts
+### _Latest blog posts_
 
 <!-- BLOG-POST-LIST:START -->
 - [Hyperbola Quintessence in Rust](https://rv178.is-a.dev/posts/hyperbola-quintessence-in-rust/)
