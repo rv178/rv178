@@ -2,7 +2,7 @@
 
 ![Alt](https://komarev.com/ghpvc/?username=rv178&&color=5E81AC&label=Profile%20views%20since%20June%203%202022)
 
-#### Latest blog posts
+### > Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Hyperbola Quintessence in Rust](https://rv178.is-a.dev/posts/hyperbola-quintessence-in-rust/)
@@ -11,6 +11,8 @@
 - [Switching to Wayland](https://rv178.is-a.dev/posts/switching-to-wayland/)
 - [Writing a Build Automation Tool](https://rv178.is-a.dev/posts/writing-a-build-automation-tool/)
 <!-- BLOG-POST-LIST:END -->
+
+### > Stats
 
 <details>
 <summary>Discord status</summary>
