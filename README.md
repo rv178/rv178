@@ -1,4 +1,6 @@
-#### Latest blog posts
+<samp>
+
+Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Season of KDE Status Update](https://rohith.net/posts/sok-status-update/)
@@ -7,3 +9,6 @@
 - [Yew.rs With TailwindCSS](https://rohith.net/posts/yew-rs-with-tailwind/)
 - [Switching to Wayland](https://rohith.net/posts/switching-to-wayland/)
 <!-- BLOG-POST-LIST:END -->
+
+</samp>
+
